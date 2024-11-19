@@ -1,6 +1,7 @@
 ---
-created: 2024-11-19 12:11:13
-modified: 2024-11-19 12:11:13
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: true
 tags:
-  - newnote
 ---
+ here we are 
+
